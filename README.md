@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### About the project
+Simple project to add expenses of a date and store it in JSON file.
+Homepage involve two links. One for viewing and the other for updating the finance.
+
+##Updating
+ # 1. Select the date (default today).
+ # 2. Enter the amount. 
+    #NOTE: Can enter individual expenses seperated by space, the exepenses are summed up automatically. Eg: Entering "10 20 100" will end up being updated as 130.
+ # 3. HIT SUBMIT
+ 
+##Viewing
+  # 1. Select start and end dates.
+  # 2. Hit submit.
+  You will see the amount and the date being displayed. The total is displayed at the bottom.
 ## Available Scripts
 
 In the project directory, you can run:
